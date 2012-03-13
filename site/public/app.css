@@ -1,0 +1,17 @@
+
+
+.tm {
+    display: none;
+}
+
+
+div[data-role='content'] {
+    overflow: hidden;
+    position: fixed;
+    top: 40px;
+    bottom: -60px;
+    left: 0px;
+    right: 0px;
+}
+
+
